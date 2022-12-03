@@ -1,6 +1,4 @@
-xgboost
 sklearn
 pandas
 numpy
-os
-requests
+sklearn
